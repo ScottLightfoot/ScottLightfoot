@@ -9,6 +9,12 @@
         <li>Rather Tall</li>
         <li>Once had a ferret named Humphrey</li>
       </ul>  
+    </td>   
+    <td>
+      <img src="./assets/profile_pic.JPG" width="500">
+    </td>
+   </tr>
+</table>
      <h2> Find me here! – </h2>
         <p float="left">
   
@@ -17,12 +23,6 @@
   [![email](./assets/GMail.png)](mailto:gslightfoot@gmail.com)
  
 </p>
-    </td>   
-    <td>
-      <img src="./assets/profile_pic.JPG" width="500">
-    </td>
-   </tr>
-</table>
 
 😄 From [Scott Lightfoot!](https://ScottLightfoot.githubio.com/)
 
