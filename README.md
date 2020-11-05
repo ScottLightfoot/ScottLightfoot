@@ -1,4 +1,30 @@
-### Hi there 👋
+<table>
+<h1> A quick glimpse – </h1>
+  <tr>
+    <td style="width:60%">
+      <p>In 2005 I received a BFA in Broadcasting and Cinematic Arts, which inevitably led me to an array of careers over the past 15 years. Despite some levels of success, at no point did I settle into a long-term career within those disciplines. All the while, my eagerness to create solutions to workplace bottlenecks left my workplaces in a better states than when I arrived.</p>
+      <ul>
+        <li>Data Scientist</li>
+        <li>Obsessed with problem solving</li>
+        <li>Rather Tall</li>
+        <li>Once had a ferret named Humphrey</li>
+      </ul>  
+     <h2> Find me here – </h2>
+        <p float="left">
+  
+  [![linkedin](./assets/LinkedIn.png)](https://www.linkedin.com/in/s-lightfoot) &nbsp;&nbsp;
+  [![github](./assets/GitHub.png)](https://github.com/ScottLightfoot) &nbsp;&nbsp;
+  [![email](./assets/GMail.png)](mailto:gslightfoot@gmail.com)
+ 
+</p>
+    </td>   
+    <td>
+      <img src="./assets/headshot.JPG" width="500">
+    </td>
+   </tr>
+</table>
+
+😄 From [Scott Lightfoot!](https://ScottLightfoot.githubio.com/)
 
 <!--
 **ScottLightfoot/ScottLightfoot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
