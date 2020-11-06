@@ -2,7 +2,7 @@
 <h1> A quick glimpse – </h1>
   <tr>
     <td>
-      <p>In 2005 I received a BFA in Broadcasting and Cinematic Arts, which inevitably led me to an array of careers over the past 15 years. Despite some levels of success, at no point did I settle into a long-term career within those disciplines. All the while, my eagerness to create solutions to workplace bottlenecks left my workplaces in a better states than when I arrived.</p>
+      <p>In 2005 I received a BFA in Broadcasting and Cinematic Arts, which inevitably led me to an array of careers over the 15 years that followed. Despite some levels of success, at no point did I settle into a long-term career within those disciplines. All the while, my eagerness to create solutions to workplace bottlenecks left those workplaces in better states than when I had arrived.  I endeavor to have that effect wherever my work may lead.</p>
       <ul>
         <li>Data Scientist</li>
         <li>Obsessed with problem solving</li>
