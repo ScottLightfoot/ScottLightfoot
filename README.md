@@ -2,12 +2,12 @@
 <h1> A quick glimpse – </h1>
   <tr>
     <td>
-      <p>In 2005 I received a BFA in Broadcasting and Cinematic Arts, which inevitably led me to an array of careers over the 15 years that followed. Despite some levels of success, at no point did I settle into a long-term career within those disciplines. All the while, my eagerness to create solutions to workplace bottlenecks left those workplaces in better states than when I had arrived.  I endeavor to have that reputation wherever my work may lead!</p>
+      <p>In 2005 I received a BFA in Broadcasting and Cinematic Arts, which inevitably led me to an array of careers over the 15 years that followed. Despite some levels of success, at no point did I settle into a long-term career within those disciplines. All the while, my eagerness to create solutions to workplace bottlenecks left those workplaces in better states than when I had arrived.  I endeavor to maintain that reputation, wherever my work may lead!</p>
       <ul>
-        <li>Data Scientist</li>
+        <li>Enthusiastic Data Scientist</li>
         <li>Obsessed with problem solving</li>
         <li>Rather Tall</li>
-        <li>Over indulges in exclamation points</li>
+        <li>Often over-indulges in exclamation points!</li>
       </ul>  
     </td>   
     <td width="35%">
